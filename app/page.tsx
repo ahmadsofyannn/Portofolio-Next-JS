@@ -47,7 +47,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="text-center py-8 text-slate-500 text-sm border-t border-slate-800">
-        © {new Date().getFullYear()} Namamu. Built with Next.js & Vercel.
+        © {new Date().getFullYear()} By Ahmad Sofyan. Built with Next.js & Vercel.
       </footer>
     </div>
   );
