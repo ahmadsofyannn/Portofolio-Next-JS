@@ -5,7 +5,7 @@ export default function Home() {
     <div className="min-h-screen bg-slate-900 text-white font-sans">
       {/* Navbar */}
       <nav className="flex justify-between items-center p-6 max-w-5xl mx-auto">
-        <h1 className="text-xl font-bold tracking-wider text-teal-400">NAMAMU.DEV</h1>
+        <h1 className="text-xl font-bold tracking-wider text-teal-400">SOFYAN</h1>
         <div className="space-x-6">
           <a href="#about" className="hover:text-teal-400 transition">Tentang</a>
           <a href="#projects" className="hover:text-teal-400 transition">Proyek</a>
@@ -16,7 +16,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center py-20 px-4 max-w-3xl mx-auto">
         <h2 className="text-4xl md:text-6xl font-extrabold mb-4">
-          Halo, Saya Ahmad Sofyan <span className="text-teal-400">Informatics Student</span>
+          I Ahmad Sofyan, <span className="text-teal-400">Informatics Student</span>
         </h2>
         <p className="text-slate-400 text-lg md:text-xl mb-8">
           Saya suka membangun aplikasi web yang interaktif, cepat, dan responsif menggunakan teknologi modern seperti React dan Next.js.
