@@ -16,7 +16,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center py-20 px-4 max-w-3xl mx-auto">
         <h2 className="text-4xl md:text-6xl font-extrabold mb-4">
-          I Ahmad Sofyan, <span className="text-teal-400">Informatics Student</span>
+          I Messi, <span className="text-teal-400">Informatics Student</span>
         </h2>
         <p className="text-slate-400 text-lg md:text-xl mb-8">
           Saya suka membangun aplikasi web yang interaktif, cepat, dan responsif menggunakan teknologi modern seperti React dan Next.js.
